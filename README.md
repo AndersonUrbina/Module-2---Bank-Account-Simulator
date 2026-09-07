@@ -9,4 +9,4 @@ A Bank Account similation build with Java including features such as withdraw, d
 3. run the Main.java file
 
 ### Program running
-![alt text](image.png)
+<img src="/images/image.png">
